@@ -53,7 +53,7 @@ I enjoy working on cloud solutions and have experience in building and deploying
 
 ### 🏆 My Github Stats - Public repositories only:
 
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahul-ve&show_icons=true&hide_border=true&theme=dark&count_private=true&include_all_commits=true&hide_rank=true&hide_title=true)
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahul-ve&show_icons=true&hide_border=true&theme=dark&count_private=false&include_all_commits=true&hide_rank=true&hide_title=true)
 
 
 ### 💻 Most Used Languages:
