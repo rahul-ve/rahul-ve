@@ -1,4 +1,4 @@
-###  ⭐ About Me
+##  ⭐ About Me
 
 Hi, My name is Rahul, I work on data and ai projects. My [Linkedin](https://www.linkedin.com/in/rahulvemulapally/) profile has more details about my work experience. 
 
@@ -17,7 +17,7 @@ I enjoy working on cloud solutions and have experience in building and deploying
   
 
 
-### 🔧🔨 Tools of the trade
+## 🔧🔨 Tools of the trade
 
 
 <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -43,7 +43,7 @@ I enjoy working on cloud solutions and have experience in building and deploying
 <code><img height="40" src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-icons/Azure-DevOps.svg">Azure DevOps</code>
 
 
-### 🎇🎓 Certifications:
+## 🎇🎓 Certifications:
 
 <code><img height="60" src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png">[CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/a68fbb34-9f69-4213-8aef-aebbd253da80/public_url)</code>
 
@@ -51,12 +51,12 @@ I enjoy working on cloud solutions and have experience in building and deploying
 <code><img height="60" src="https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png">[AWS Certified Security Speciality](https://www.credly.com/badges/0e64200c-8f3c-45d6-b6a5-daae21fcf2ea/public_url)</code>
 
 
-### 🏆 My Github Stats - Public repositories only:
+## 🏆 My Github Stats - public repositories only:
 
-![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahul-ve&show_icons=true&hide_border=true&theme=dark&count_private=false&include_all_commits=true&hide_rank=true&hide_title=true)
+![Rahul's github stats](https://github-readme-stats.vercel.app/api?username=rahul-ve&show_icons=true&hide_border=true&theme=dark&include_all_commits=true&hide_rank=true&hide_title=true)
 
 
-### 💻 Most Used Languages:
+## 💻 Most Used Languages:
 
 ![Rahul's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-ve&bg_color=0000&theme=dark&show_icons=true&locale=en&hide_border=true&hide_title=true&langs_count=10&layout=compact)
 
