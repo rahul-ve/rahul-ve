@@ -2,19 +2,7 @@
 
 Hi, My name is Rahul, I work on data and ai projects. My [Linkedin](https://www.linkedin.com/in/rahulvemulapally/) profile has more details about my work experience. 
 
-I enjoy working on cloud solutions and have experience in building and deploying platforms and applications on AWS and Azure. 
-
-🚀 Currently, I am working on a projects with below mix of tools:
-
-	- Databricks
-	- AWS stack (S3, Lambda, Sagemaker, RDS, EC2, Aurora, IAM, EKS)
-	- Terraform
-	- Docker
-	- Kubernetes
-	- Python
-	- SQL
-	- Spark
-  
+I specialise in cloud solutions with experience in building and deploying platforms and applications on AWS and Azure. 
 
 
 ## 🔧🔨 Tools of the trade
