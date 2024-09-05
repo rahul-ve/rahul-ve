@@ -1,6 +1,7 @@
 ##  ⭐ About Me
 
-Hi, My name is Rahul, I specialise in data & ai solutions with experience in building and deploying platforms and applications on AWS and Azure. My [Linkedin](https://www.linkedin.com/in/rahulvemulapally/) profile has more details about my work experience. 
+Hi, I specialise in data & ai solutions with experience in building platforms and applications on AWS and Azure. 
+My [Linkedin](https://www.linkedin.com/in/rahulvemulapally/) profile has more details about my work experience. 
 
 
 ## 🔧🔨 Tools of the trade
