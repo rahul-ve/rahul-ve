@@ -32,6 +32,8 @@ My [Linkedin](https://www.linkedin.com/in/rahulvemulapally/) profile has more de
 
 ## 🎇🎓 Certifications:
 
+<code><img height="60" src="https://www.databricks.com/sites/default/files/2024-12/machine-professional-badge-ml.png">[Databricks Certified Machine Learning Professional](https://credentials.databricks.com/assets/themes/credentials.databricks.com/images/banner_background.png?v=1644841203310)</code>
+
 <code><img height="60" src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png">[CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/a68fbb34-9f69-4213-8aef-aebbd253da80/public_url)</code>
 
 
